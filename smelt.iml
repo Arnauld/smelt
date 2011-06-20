@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="scala" name="Scala">
+      <configuration>
+        <option name="compilerLibraryLevel" value="Project" />
+        <option name="compilerLibraryName" value="scala_2.9.0" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/test/scala" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/scala-2.9.0.1/src_managed/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/scala-2.9.0.1/src_managed/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/lib_managed" />
+      <excludeFolder url="file://$MODULE_DIR$/project/boot" />
+      <excludeFolder url="file://$MODULE_DIR$/project/plugins/lib_managed" />
+      <excludeFolder url="file://$MODULE_DIR$/project/plugins/project" />
+      <excludeFolder url="file://$MODULE_DIR$/project/plugins/target" />
+      <excludeFolder url="file://$MODULE_DIR$/project/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target/scala-2.9.0.1/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/target/scala-2.9.0.1/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/target/streams" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="scala_2.9.0" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/bundle/org.jboss.netty/netty/netty-3.2.4.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/jar/org.mockito/mockito-all/mockito-all-1.8.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/jar/rhino/js/js-1.7R2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/jar/org.slf4j/slf4j-api/slf4j-api-1.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="sbt-0.10.0">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/project/boot/scala-2.8.1/org.scala-tools.sbt/sbt/0.10.0" />
+          <root url="file://$MODULE_DIR$/project/boot/scala-2.8.1/org.scala-tools.sbt/sbt/0.10.0" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/project/boot/scala-2.8.1/org.scala-tools.sbt/sbt/0.10.0" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/project/plugins/lib_managed/jar/com.dyuproject.protostuff/protostuff-compiler/protostuff-compiler-1.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/jar/com.sleepycat/je/je-4.0.92.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/jar/org.scala-tools.testing/specs_2.9.0-1/specs_2.9.0-1-1.6.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/jar/org.codehaus.jackson/jackson-core-lgpl/jackson-core-lgpl-1.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/jar/com.dyuproject.protostuff/protostuff-core/protostuff-core-1.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/jar/com.dyuproject.protostuff/protostuff-api/protostuff-api-1.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
